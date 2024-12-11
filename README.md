@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/191014659" alt="Profile picture" width="128" />
+
 - 👋 Hi, I’m @c-l1ve
 - 👀 I’m interested in fullstack & game development
 - 🌱 I’m currently learning Go
